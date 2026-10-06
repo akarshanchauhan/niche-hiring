@@ -1,4 +1,4 @@
-# Attio Style — Niche HR Proactive Talent Intelligence Platform
+# niche — Proactive Talent Intelligence Platform
 
 A high-fidelity, clickable front-end prototype designed for HR and talent acquisition teams doing proactive hiring for specialized, cross-disciplinary roles (e.g., a statistical economist who specializes in weather patterns).
 
